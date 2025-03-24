@@ -9,9 +9,10 @@ pub mod polynomials;
 pub mod poseidon;
 pub mod poseidon2;
 pub mod program;
+pub mod rns;
 pub mod sumcheck;
-pub mod vec_ops;
 pub mod symbol;
+pub mod vec_ops;
 
 #[doc(hidden)]
 pub mod tests;
