@@ -96,6 +96,11 @@ const cppApi = [
     label: "Sumcheck",
     id: "icicle/primitives/sumcheck",
   },
+  {
+    type: "doc",
+    label: "Fri",
+    id: "icicle/primitives/fri",
+  },
 ];
 
 const golangBindingsApi = [
@@ -167,6 +172,11 @@ const rustBindingsApi = [
     type: "doc",
     label: "Vector operations",
     id: "icicle/rust-bindings/vec-ops",
+  },
+  {
+    type: "doc",
+    label: "Program",
+    id: "icicle/rust-bindings/program", 
   },
   {
     type: "doc",
